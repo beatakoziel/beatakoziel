@@ -1,6 +1,6 @@
 ## Hi, I'm Beata
 
-I'm a product engineer with a strong backend foundation, building software professionally since 2019. Today I'm a Senior Backend Engineer at Symmetrical.ai, working across the whole platform, from backend services to the frontend.
+I'm a product engineer with a strong backend foundation, building software professionally since 2019. Today I'm a Senior Backend Engineer at Symmetrical.ai, working across the whole platform, frontend included.
 
 I like working where product meets engineering: talking with the business, figuring out what they actually need and turning it into software, from a rough idea to production and on through real user feedback.
 
