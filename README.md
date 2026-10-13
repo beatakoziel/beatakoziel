@@ -2,11 +2,6 @@
 
 **Product Engineer · Senior Backend Engineer at Symmetrical.ai**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-  <img alt="I build software that users love to use" src="assets/banner-light.gif">
-</picture>
-
 I build products end to end, from the first idea to production, and I work with AI agents every day to ship faster. My core is backend: platform architecture, authorization and event-driven systems. Lately I spend as much time in TypeScript and on the frontend as on the backend.
 
 After hours I design, build and deploy web products on my own, working with AI from design to deployment.
@@ -19,11 +14,10 @@ After hours I design, build and deploy web products on my own, working with AI f
 - **Event-driven systems:** integrations between microservices with Apache Kafka
 - **Product delivery:** features end to end across backend and frontend, refined with real user feedback
 
-### Tech
-
-- **Languages:** TypeScript, Kotlin, Java
-- **Backend:** Spring, Apache Kafka, MongoDB, PostgreSQL
-- **AI:** Claude, Codex, Copilot
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <img alt="I build software that users love to use" src="assets/banner-light.gif">
+</picture>
 
 ### Contact
 
