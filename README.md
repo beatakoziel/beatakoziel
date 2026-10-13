@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <img alt="I build software that users love to use" src="assets/banner-light.gif">
+</picture>
+
 ## Hi, I'm Beata
 
 **Product Engineer · Senior Backend Engineer at Symmetrical.ai**
